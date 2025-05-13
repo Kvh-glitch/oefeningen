@@ -1,0 +1,16 @@
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\bin\Debug\net8.0\D13 oefeningenSRT.exe
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\bin\Debug\net8.0\D13 oefeningenSRT.deps.json
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\bin\Debug\net8.0\D13 oefeningenSRT.runtimeconfig.json
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\bin\Debug\net8.0\D13 oefeningenSRT.dll
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\bin\Debug\net8.0\D13 oefeningenSRT.pdb
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\D13 oefeningenSRT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\D13 oefeningenSRT.AssemblyInfoInputs.cache
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\D13 oefeningenSRT.AssemblyInfo.cs
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\D13 oefeningenSRT.csproj.CoreCompileInputs.cache
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\D13 oefeningenSRT.dll
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\refint\D13 oefeningenSRT.dll
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\D13 oefeningenSRT.pdb
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\D13 oefeningenSRT.genruntimeconfig.cache
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\obj\Debug\net8.0\ref\D13 oefeningenSRT.dll
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\bin\Debug\net8.0\test.srt
+C:\Users\kurtv\source\repos\D13 oefeningenSRT\D13 oefeningenSRT\bin\Debug\net8.0\Subtitles\test.srt
