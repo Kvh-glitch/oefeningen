@@ -14,13 +14,13 @@ namespace D13_oefeningenSRT
 
             string[] lines = File.ReadAllLines(path);
             (string[] nummers, string[] subtitles, string[] timestamps) = SplitsenInArrays(lines);
-            
+
             string backupPath = path + ".backup";
-            
+
             try
             {
                 File.Copy(path, backupPath, true);
-                Console.WriteLine($"Backup gemaakt van {fileName} naar {backupPath}");
+                Console.WriteLine($"Backup gemaakt van {fileName} naar {Path.GetFileName(backupPath)}");
             }
             catch (Exception ex)
             {
@@ -30,7 +30,7 @@ namespace D13_oefeningenSRT
             string[] aangepasteLijnen = ApplyOffsetMetLogging(lines, offset, out List<string> logs);
             ToonWijzigingen(nummers, subtitles, logs);
             WriteToFile(aangepasteLijnen, path);
-            
+
             Console.WriteLine($"Offset succesvol toegepast op het bestand {fileName}.");
 
 
@@ -38,37 +38,35 @@ namespace D13_oefeningenSRT
         }
         static (string[] nummers, string[] subtitles, string[] timestamps) SplitsenInArrays(string[] lines)
         {
-            List<string> nummers = new List<string>();
-            List<string> timestamps = new List<string>();
-            List<string> subtitles = new List<string>();
+            var nummers = new List<string>();
+            var timestamps = new List<string>();
+            var subtitles = new List<string>();
 
-            int i = 0;
-            while (i < lines.Length)
+
+            for (int i = 0; i < lines.Length; i++)
             {
                 string nummer = lines[i++];
-
-                if (string.IsNullOrEmpty(nummer))
-                    continue;
                 nummers.Add(nummer);
-                string tijdregel = lines[i++];
-                timestamps.Add(tijdregel);
 
-                List<string> ondertitelLijnen = new List<string>();
-                while (i < lines.Length && !string.IsNullOrEmpty(lines[i]))
-                {
+                if (string.IsNullOrEmpty(lines[i]))
+                    continue;
+                if (i < lines.Length && lines[i].Contains("-->"))
+                    timestamps.Add(lines[i++]);
+
+                var ondertitelLijnen = new List<string>();
+                while (i < lines.Length && !string.IsNullOrWhiteSpace(lines[i]))
                     ondertitelLijnen.Add(lines[i++]);
-                }
+
                 subtitles.Add(string.Join("\n", ondertitelLijnen));
-                if (i < lines.Length && string.IsNullOrWhiteSpace(lines[i]))
+
+                while (i < lines.Length && string.IsNullOrWhiteSpace(lines[i]))
                 {
-                    i++; 
+                    i++;
                 }
-
-
-               
-            } return (nummers.ToArray(), subtitles.ToArray(), timestamps.ToArray());
+            }
+            return (nummers.ToArray(), subtitles.ToArray(), timestamps.ToArray());
         }
-        
+
         static (string fileName, string path) VragenNaarBestand(string vraag)
         {
             while (true)
@@ -118,7 +116,7 @@ namespace D13_oefeningenSRT
                     (string endOutput, string endLog) = PasTijdToeMetLog(endRaw, offset, "Eind");
                     output[i] = $"{startOutput} --> {endOutput}";
                     logs.Add($"{startLog}\n{endLog}");
-                    
+
                 }
                 else output[i] = line;
             }
@@ -160,11 +158,13 @@ namespace D13_oefeningenSRT
             }
         }
         static void ToonWijzigingen(string[] nummers, string[] subtitles, List<string> logs)
-        { for (int i = 0; i < nummers.Length; i++)
+        {
+            for (int i = 0; i < nummers.Length; i++)
             {
                 Console.WriteLine(nummers[i]);
                 Console.WriteLine(subtitles[i]);
                 Console.WriteLine(logs[i]);
+                Console.WriteLine();
             }
         }
     }
