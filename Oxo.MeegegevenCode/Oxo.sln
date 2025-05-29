@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxo ClassLibrary", "Oxo ClassLibrary\Oxo ClassLibrary.csproj", "{79E0EB1E-BF82-4098-96DD-64C950BE4B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxo Console Demo", "Oxo Console Demo\Oxo Console Demo.csproj", "{013A2165-46D0-4B93-B5FC-CB8FA26B1881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxo Wpf Demo", "Oxo Wpf Demo\Oxo Wpf Demo.csproj", "{763678B2-9269-46F8-A066-6699EBF10773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E0EB1E-BF82-4098-96DD-64C950BE4B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E0EB1E-BF82-4098-96DD-64C950BE4B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E0EB1E-BF82-4098-96DD-64C950BE4B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E0EB1E-BF82-4098-96DD-64C950BE4B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013A2165-46D0-4B93-B5FC-CB8FA26B1881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013A2165-46D0-4B93-B5FC-CB8FA26B1881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013A2165-46D0-4B93-B5FC-CB8FA26B1881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013A2165-46D0-4B93-B5FC-CB8FA26B1881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763678B2-9269-46F8-A066-6699EBF10773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763678B2-9269-46F8-A066-6699EBF10773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763678B2-9269-46F8-A066-6699EBF10773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763678B2-9269-46F8-A066-6699EBF10773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

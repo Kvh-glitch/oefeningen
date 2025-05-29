@@ -1,0 +1,8 @@
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\Oxo Basic ConsoleApp.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo Basic Console.exe.config
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo Basic Console.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo Basic Console.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\Oxo Basic Console.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\Oxo Basic Console.pdb

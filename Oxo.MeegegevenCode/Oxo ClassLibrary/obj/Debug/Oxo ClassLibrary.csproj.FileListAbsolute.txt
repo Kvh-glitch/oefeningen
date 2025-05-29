@@ -1,0 +1,40 @@
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo ClassLibrary\obj\Debug\Oxo ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo ClassLibrary\obj\Debug\Oxo.pdb
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo ClassLibrary\bin\Debug\Oxo.dll
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo ClassLibrary\bin\Debug\Oxo.pdb
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo.dll
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo.pdb
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo ClassLibrary\bin\Debug\Oxo.dll
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo ClassLibrary\bin\Debug\Oxo.pdb
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo.dll
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo.pdb
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo.dll
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo ClassLibrary\obj\Debug\Oxo.pdb
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo ClassLibrary\bin\Debug\Oxo.dll
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo ClassLibrary\bin\Debug\Oxo.pdb

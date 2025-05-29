@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|c:\\users\\kurtv\\source\\repos\\opdrachtenvoorprogrammerenbasis2\\oxo.meegegevencode\\oxo classlibrary\\computerspeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|solutionrelative:oxo classlibrary\\computerspeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\oxo classlibrary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|solutionrelative:oxo classlibrary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\oxo classlibrary\\spel.eventsargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|solutionrelative:oxo classlibrary\\spel.eventsargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013A2165-46D0-4B93-B5FC-CB8FA26B1881}|Oxo Console Demo\\Oxo Console Demo.csproj|C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\oxo console demo\\competitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013A2165-46D0-4B93-B5FC-CB8FA26B1881}|Oxo Console Demo\\Oxo Console Demo.csproj|solutionrelative:oxo console demo\\competitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013A2165-46D0-4B93-B5FC-CB8FA26B1881}|Oxo Console Demo\\Oxo Console Demo.csproj|C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\oxo console demo\\demoprogram1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013A2165-46D0-4B93-B5FC-CB8FA26B1881}|Oxo Console Demo\\Oxo Console Demo.csproj|solutionrelative:oxo console demo\\demoprogram1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Oxo Console Demo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\oxo classlibrary\\bord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|solutionrelative:oxo classlibrary\\bord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\oxo classlibrary\\lijn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|solutionrelative:oxo classlibrary\\lijn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\oxo classlibrary\\speler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0EB1E-BF82-4098-96DD-64C950BE4B62}|Oxo ClassLibrary\\Oxo ClassLibrary.csproj|solutionrelative:oxo classlibrary\\speler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputerSpeler.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\ComputerSpeler.cs",
+              "RelativeDocumentMoniker": "Oxo ClassLibrary\\ComputerSpeler.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\ComputerSpeler.cs",
+              "RelativeToolTip": "Oxo ClassLibrary\\ComputerSpeler.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAADwv5YAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:57:57.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Competitie.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo Console Demo\\Competitie.cs",
+              "RelativeDocumentMoniker": "Oxo Console Demo\\Competitie.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo Console Demo\\Competitie.cs",
+              "RelativeToolTip": "Oxo Console Demo\\Competitie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:51:30.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spel.EventsArgs.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Spel.EventsArgs.cs",
+              "RelativeDocumentMoniker": "Oxo ClassLibrary\\Spel.EventsArgs.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Spel.EventsArgs.cs",
+              "RelativeToolTip": "Oxo ClassLibrary\\Spel.EventsArgs.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAtwDwAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:31:24.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoProgram1.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo Console Demo\\DemoProgram1.cs",
+              "RelativeDocumentMoniker": "Oxo Console Demo\\DemoProgram1.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo Console Demo\\DemoProgram1.cs",
+              "RelativeToolTip": "Oxo Console Demo\\DemoProgram1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:29:10.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bord.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Bord.cs",
+              "RelativeDocumentMoniker": "Oxo ClassLibrary\\Bord.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Bord.cs",
+              "RelativeToolTip": "Oxo ClassLibrary\\Bord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:28:44.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lijn.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Lijn.cs",
+              "RelativeDocumentMoniker": "Oxo ClassLibrary\\Lijn.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Lijn.cs",
+              "RelativeToolTip": "Oxo ClassLibrary\\Lijn.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:27:32.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oxo Console Demo",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo Console Demo\\Oxo Console Demo.csproj",
+              "RelativeDocumentMoniker": "Oxo Console Demo\\Oxo Console Demo.csproj",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo Console Demo\\Oxo Console Demo.csproj",
+              "RelativeToolTip": "Oxo Console Demo\\Oxo Console Demo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-23T17:26:46.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Oxo ClassLibrary\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Oxo ClassLibrary\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:49:14.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Speler.cs",
+              "DocumentMoniker": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Speler.cs",
+              "RelativeDocumentMoniker": "Oxo ClassLibrary\\Speler.cs",
+              "ToolTip": "C:\\Users\\kurtv\\source\\repos\\OpdrachtenVoorProgrammerenBasis2\\Oxo.MeegegevenCode\\Oxo ClassLibrary\\Speler.cs",
+              "RelativeToolTip": "Oxo ClassLibrary\\Speler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:25:39.574Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1017,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

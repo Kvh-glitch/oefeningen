@@ -1,0 +1,28 @@
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\Oxo\ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\Oxo\ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\Oxo\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\Oxo\ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\Oxo\ClassLibrary\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\Oxo v5\ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\Oxo v5\ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\Oxo v5\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\Oxo v5\ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\Oxo v5\ClassLibrary\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\ClassLibrary\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\ClassLibrary\obj\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\ClassLibrary\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\ClassLibrary\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\ClassLibrary\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\ClassLibrary\obj\Debug\Oxo.pdb

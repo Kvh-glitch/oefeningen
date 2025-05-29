@@ -1,0 +1,5 @@
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo\obj\Debug\Oxo.pdb

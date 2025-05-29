@@ -1,0 +1,14 @@
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\bin\Debug\net8.0\stackenqueue.exe
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\bin\Debug\net8.0\stackenqueue.deps.json
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\bin\Debug\net8.0\stackenqueue.runtimeconfig.json
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\bin\Debug\net8.0\stackenqueue.dll
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\bin\Debug\net8.0\stackenqueue.pdb
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\stackenqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\stackenqueue.AssemblyInfoInputs.cache
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\stackenqueue.AssemblyInfo.cs
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\stackenqueue.csproj.CoreCompileInputs.cache
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\stackenqueue.dll
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\refint\stackenqueue.dll
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\stackenqueue.pdb
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\stackenqueue.genruntimeconfig.cache
+C:\Users\kurtv\source\repos\stackenqueue\stackenqueue\obj\Debug\net8.0\ref\stackenqueue.dll

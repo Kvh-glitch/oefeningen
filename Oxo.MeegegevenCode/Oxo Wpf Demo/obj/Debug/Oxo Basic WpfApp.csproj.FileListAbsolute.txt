@@ -1,0 +1,16 @@
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo Basic.exe.config
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo Basic.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo Basic.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Basic WpfApp.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\MainWindow.g.cs
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\App.g.cs
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Basic_MarkupCompile.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Basic_MarkupCompile.lref
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\MainWindow.baml
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Basic.g.resources
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo_Basic.Properties.Resources.resources
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Basic WpfApp.csproj.GenerateResource.Cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Basic.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Basic.pdb

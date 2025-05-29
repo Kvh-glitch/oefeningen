@@ -1,0 +1,14 @@
+C:\Users\fdw\Desktop\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\A6.Temp.OXO.exe.config
+C:\Users\fdw\Desktop\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\A6.Temp.OXO.exe
+C:\Users\fdw\Desktop\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\A6.Temp.OXO.pdb
+C:\Users\fdw\Desktop\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.csprojResolveAssemblyReference.cache
+C:\Users\fdw\Desktop\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.exe
+C:\Users\fdw\Desktop\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\A6.Temp.OXO.exe.config
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\A6.Temp.OXO.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\A6.Temp.OXO.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo.pdb

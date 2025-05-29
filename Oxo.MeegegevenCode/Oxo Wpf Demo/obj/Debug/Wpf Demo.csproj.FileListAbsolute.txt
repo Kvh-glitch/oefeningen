@@ -1,0 +1,73 @@
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Wpf Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\MainWindow.g.cs
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\App.g.cs
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\MainWindow.baml
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Wpf Demo.csproj.GenerateResource.Cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo Wpf Demo.exe.config
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Wpf Demo_MarkupCompile.cache
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Wpf Demo_MarkupCompile.lref
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\bin\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Wpf Demo.g.resources
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo.WpfDemo.Properties.Resources.resources
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Oxo.Oxo Basic\obj\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe.config
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Wpf Demo\obj\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\Wpf Demo\obj\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\Oxo v7\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe.config
+E:\Google Drive\My Work\A6\Oxo v7\Wpf Demo\obj\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\Oxo v7\Wpf Demo\obj\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe.config
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\Wpf Demo\obj\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo Meegegeven Code\Wpf Demo\obj\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe.config
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Wpf Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\MainWindow.g.cs
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\App.g.cs
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo_MarkupCompile.cache
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo_MarkupCompile.lref
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\MainWindow.baml
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.g.resources
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo.WpfDemo.Properties.Resources.resources
+E:\Google Drive\My Work\A6\2015-2016.S2\Opgave en Modeloplossingen\Oxo\Oxo\Wpf Demo\obj\Debug\Wpf Demo.csproj.GenerateResource.Cache
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe.config
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Wpf Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\MainWindow.g.cs
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\App.g.cs
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo_MarkupCompile.cache
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo_MarkupCompile.lref
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\MainWindow.baml
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.g.resources
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo.WpfDemo.Properties.Resources.resources
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Wpf Demo.csproj.GenerateResource.Cache
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\2016-2017.S1\Gequoteerde opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe.config
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo Wpf Demo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Wpf Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\MainWindow.g.cs
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\App.g.cs
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo_MarkupCompile.cache
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo_MarkupCompile.lref
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\MainWindow.baml
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.g.resources
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo.WpfDemo.Properties.Resources.resources
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Wpf Demo.csproj.GenerateResource.Cache
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.exe
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo\Wpf Demo\obj\Debug\Oxo Wpf Demo.pdb

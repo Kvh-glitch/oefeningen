@@ -1,0 +1,82 @@
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.dll
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+E:\Google Drive\My Work\A6\2016-2017.S2\Gequoteerde opdrachten\Opdracht 3\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S1\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.dll
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\bin\Debug\Oxo.dll
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\bin\Debug\Oxo.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\obj\Debug\Oxo Console Demo.csprojResolveAssemblyReference.cache
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+E:\Google Drive\My Work\A6\2017-2018.S2\Gequoteerde opdrachten\Opdracht 5\Oxo - Meegegeven code\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo.dll
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo.pdb
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.csproj.AssemblyReference.cache
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.csproj.CoreCompileInputs.cache
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Cons.AFAF124F.Up2Date
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+C:\Users\fwol697\Downloads\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo.dll
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo.pdb
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.csproj.AssemblyReference.cache
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.csproj.CoreCompileInputs.cache
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Cons.AFAF124F.Up2Date
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+C:\Users\kurtv\source\repos\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe.config
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.exe
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo Console Demo.pdb
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo.dll
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo.pdb
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\bin\Debug\Oxo SpelersArchief.pdb
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.csproj.AssemblyReference.cache
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.csproj.CoreCompileInputs.cache
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Cons.AFAF124F.Up2Date
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.exe
+C:\Users\kurtv\source\repos\OpdrachtenVoorProgrammerenBasis2\Oxo.MeegegevenCode\Oxo Console Demo\obj\Debug\Oxo Console Demo.pdb

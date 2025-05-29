@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Oxo.Bord">
+    <Position X="0.5" Y="3.5" Width="3.25" />
+    <Members>
+      <Field Name="_lijnen" Hidden="true" />
+      <Method Name="Bord" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Lijnen" Type="Oxo.Lijn">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-1.84" Y="0.293" Height="0.182" Width="1.701" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABCBAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bord.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Lijnen" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Oxo.ComputerSpeler">
+    <Position X="7.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAA=</HashCode>
+      <FileName>ComputerSpeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oxo.Willekeurigaard">
+    <Position X="7.75" Y="2.75" Width="2.5" />
+    <Members>
+      <Field Name="_random" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAE=</HashCode>
+      <FileName>ComputerSpeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oxo.Pessimist">
+    <Position X="7.75" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAIAAAAAA=</HashCode>
+      <FileName>ComputerSpeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oxo.Opportunist">
+    <Position X="7.75" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>ComputerSpeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oxo.Lijn">
+    <Position X="0.5" Y="5.75" Width="3.25" />
+    <Members>
+      <Field Name="_velden" Hidden="true" />
+      <Method Name="Lijn" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Velden" Type="Oxo.Veld">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.068" Y="0.068" Height="0.182" Width="0.843" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAIAAAAAEAAAAABAACAAAgAAAAgAAAACAQAAA=</HashCode>
+      <FileName>Lijn.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Velden" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Oxo.Spel">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <Members>
+      <Field Name="_bord" Hidden="true" />
+      <Field Name="_gestart" Hidden="true" />
+      <Method Name="OnRaiseSpelBeëindigdEvent" Hidden="true" />
+      <Method Name="OnRaiseVolgendeSpelerAanZetEvent" Hidden="true" />
+      <Method Name="Spel" Hidden="true" />
+      <Event Name="SpelBeëindigd" Hidden="true" />
+      <Event Name="VolgendeSpelerAanZet" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Bord" Type="Oxo.Bord">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.682" Y="0.227" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="TeSpelenSpeler" Type="Oxo.Speler" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="1.375" />
+        <Point X="5.75" Y="1.375" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.052" Y="0.035" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="StartendeSpeler" Type="Oxo.Speler" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="2.125" />
+        <Point X="5.75" Y="2.125" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.152" Y="0.091" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAEADAAAiACEAAAAAACAAAAABEgAAIAAAAAABA=</HashCode>
+      <FileName>Spel.EventsArgs.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bord" />
+      <Property Name="TeSpelenSpeler" />
+      <Property Name="StartendeSpeler" />
+      <Property Name="LaatstGespeeldeSpeler" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Oxo.Veld" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="5.75" Width="2.5" />
+    <Members>
+      <Field Name="_kolom" Hidden="true" />
+      <Field Name="_rij" Hidden="true" />
+      <Field Name="_speler" Hidden="true" />
+      <Method Name="Equals" Hidden="true" />
+      <Method Name="GetHashCode" Hidden="true" />
+      <Method Name="NotifyPropertyChanged" Hidden="true" />
+      <Method Name="operator !=" Hidden="true" />
+      <Method Name="operator ==" Hidden="true" />
+      <Event Name="PropertyChanged" Hidden="true" />
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAAAIAEkAAIAAAAgAAAAIACAAAAACCAAiA=</HashCode>
+      <FileName>Veld.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Enum Name="Oxo.Speler">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAA=</HashCode>
+      <FileName>Speler.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Oxo.Status">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAABAAAAAAgAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Status.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

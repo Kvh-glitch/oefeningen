@@ -1,0 +1,4 @@
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\A6.Temp.OXO.exe.config
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.exe
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\obj\Debug\A6.Temp.OXO.pdb
+E:\Google Drive\My Work\C#\A6.Temp.OXO\A6.Temp.OXO\bin\Debug\Oxo Basic Console.exe.config
